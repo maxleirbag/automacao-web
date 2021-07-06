@@ -1,8 +1,11 @@
 #!/usr/bin/env python
 # coding: utf-8
 
+#Notas: 
+#- Programa feito no Jupuyter Notebook. 
+#- Para funcionar corretamente, recomenda-se que o Selenium WebDriver esteja na mesma página do programa em Python.
+
 # ## Solução final
-# 
 # 1) Pesquisar as cotações das moedas e ouro
 # 2) Localizar a informação no site
 # 3) Armazenar as informações
